@@ -31,3 +31,20 @@ The chatbot is built on the following Iron Lady content:
 ```bash
 git clone <REPO_URL>
 cd <REPO_FOLDER>
+```
+#### 2. Install dependencies
+```
+pip install -r requirements.txt
+```
+### 3. Set up environment variables
+
+Create a .env file in the project root:
+```
+GOOGLE_API_KEY=your_google_generative_ai_api_key_here
+```
+### 4. Running the App
+
+Run the Streamlit app with:
+```
+streamlit run app.py
+```
