@@ -29,10 +29,10 @@ The chatbot is built on the following Iron Lady content:
 ### 1. Clone the repository
 
 ```bash
-git clone <REPO_URL>
-cd <REPO_FOLDER>
+git clone https://github.com/Uvais5/Iron_lady_chatbot.git
+cd Iron_lady_chatbot
 ```
-#### 2. Install dependencies
+### 2. Install dependencies
 ```
 pip install -r requirements.txt
 ```
