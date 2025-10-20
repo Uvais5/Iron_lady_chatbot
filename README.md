@@ -3,6 +3,18 @@
 A **Streamlit-based chatbot** that answers questions about the Iron Lady organization using **Google Generative AI (Gemini) embeddings and RAG** (Retrieval-Augmented Generation). The chatbot retrieves relevant information from a predefined knowledge base and generates responses based only on that context.
 
 ---
+## 🎬 Project Demo
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=PSHRHqCNWRQ" target="_blank">
+    <img src="thumbnail.png" alt="Watch Iron Lady ChatBot Demo" width="640">
+  </a>
+  <br>
+  <strong><a href="https://www.youtube.com/watch?v=PSHRHqCNWRQ" target="_blank">▶️ Watch: NLP-Query-Engine-For-Data</a></strong>
+  <p>Video by Data Science Solutions</p>
+</div>
+
+---
 
 ## Features
 
